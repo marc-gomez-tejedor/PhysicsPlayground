@@ -1,7 +1,7 @@
 # PhysicsPlayground
 Gameplay-physics portfolio · Unity 6 LTS
 
-![Unity CI](https://github.com/marc-gomez-tejedor/PhysicsPlayground/actions/workflows/unity.yml/badge.svg)
+![Unity CI](https://github.com/marc-gomez-tejedor/PhysicsPlayground/actions/workflows/unity.yml/badge.svg) ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
 
