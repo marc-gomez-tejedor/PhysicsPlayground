@@ -1,0 +1,17 @@
+name: Unity CI (stub)
+
+# 1) Trigger on every push and on pull requests
+on: [push, pull_request]
+
+jobs:
+  build:
+    # 2) Runs on the latest Ubuntu VM (fastest queue)
+    runs-on: ubuntu-latest
+
+    steps:
+      # 3) Check out your repository so later steps see the files
+      - uses: actions/checkout@v4
+
+      # 4) Placeholder command — will be replaced by game-ci tomorrow
+      - name: Stub
+        run: echo "✅ Stub CI — Unity build will be added in Day 2"
